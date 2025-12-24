@@ -125,4 +125,11 @@ Key business questions answered:
 
 ---
 
+## 📊 Power BI Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/Gautam825406/DA-Customer_Shopping_Behavior_Analysis/blob/main/Dashboard_img.png" 
+       alt="Customer Shopping Behavior Dashboard" 
+       width="900">
+</p>
 
